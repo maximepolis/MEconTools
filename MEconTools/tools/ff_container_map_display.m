@@ -8,6 +8,7 @@
 %    * IT_ROW_N_KEEP integer the number of rows to print out from matrix
 %    * IT_COL_N_KEEP integer the number of columns to print out from matrix
 %
+%
 %    FF_CONTAINER_MAP_DISPLAY() prints out information from a default
 %    container that includes string, scalar, boolean, matrix of scalars and
 %    matrix of booleans.
